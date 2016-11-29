@@ -1,4 +1,4 @@
 ---
 layout: slides
-title: "00 - Welcome to Rust"
+title: "Functions & Closures in Rust: fn, Fn, FnMut, FnOnce"
 ---
