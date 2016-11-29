@@ -26,6 +26,6 @@ We'll also take turns giving presentations on the questions raised by the
 assignments, and how those questions can be resolved.
 
 [rust-lang]: https://www.rust-lang.org
-[aozdemir]: https://alex-ozdemir.github.io/
+[aozdemir]: /slides/zach/
 [ben]: https://www.cs.hmc.edu/~benw/
 [colleen]: https://www.cs.hmc.edu/~lewis/
